@@ -1,7 +1,7 @@
 # If-Elif-and-Else-Statement-Projects
 
 The programming constructs that you used to solve the projects in the previous
-chapter will continue to be useful as you tackle these problems. In addition, the
+repositry will continue to be useful as you tackle these problems. In addition, the
 exercises in this chapter will require you to use decision making constructs so that
 your programs can handle a variety of different situations that might arise. You should
 expect to use some or all of these Python features when completing these problems:
