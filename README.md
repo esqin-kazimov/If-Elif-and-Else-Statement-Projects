@@ -2,7 +2,7 @@
 
 The programming constructs that you used to solve the projects in the previous
 repositry will continue to be useful as you tackle these problems. In addition, the
-projectss in this repository will require you to use decision making constructs so that
+projects in this repository will require you to use decision making constructs so that
 your programs can handle a variety of different situations that might arise. You should
 expect to use some or all of these Python features when completing these problems:
 
